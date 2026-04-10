@@ -1,7 +1,9 @@
 # 👋 Hi, I'm Eyas Majeed
 
 🎓 Computer Science Student | Soon-to-be Graduate
+
 💻 Aspiring Software Engineer | AI & Data Science Enthusiast
+
 📍 Based in Saudi Arabia
 
 ---
@@ -19,7 +21,7 @@
 
 **Languages:**
 
-* Python, Java, SQL, JavaScript
+* Python, Java, SQL, JavaScript, Dart, R, C++
 
 **Frameworks & Tools:**
 
@@ -28,6 +30,7 @@
 * Supabase
 * VS Code
 * Flutter
+* Firebase
 
 **AI & Data:**
 
@@ -42,6 +45,7 @@
 * 🔐 AI Botnet Detection System
 * 🖥️ Desktop Security Application (PyQt6)
 * 🌐 Web-based Systems with Laravel
+* 📱 Application uses Realtime Data and live Tracking (Flutter)
 
 ---
 
