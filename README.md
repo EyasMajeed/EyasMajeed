@@ -27,6 +27,7 @@
 * Git & GitHub
 * Supabase
 * VS Code
+* Flutter
 
 **AI & Data:**
 
@@ -47,8 +48,7 @@
 
 ## 📫 Contact Me
 
-* 💼 LinkedIn: (Add your link here)
-* 📧 Email: (Add your email here)
+* 💼 LinkedIn: https://www.linkedin.com/in/eyas-majeed
 
 ---
 
