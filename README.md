@@ -1,16 +1,60 @@
-## Hi there 👋
+# 👋 Hi, I'm Eyas Majeed
 
-<!--
-**EyasMajeed/EyasMajeed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student | Soon-to-be Graduate
+💻 Aspiring Software Engineer | AI & Data Science Enthusiast
+📍 Based in Saudi Arabia
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+* 🔭 Currently working on AI-based cybersecurity projects
+* 🧠 Interested in Machine Learning, Data Science, and Backend Development
+* ⚡ Building real-world applications using Python, PyQt6, and modern tools
+* 🎯 Goal: Become a Software Engineer in AI/Data-focused roles
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages:**
+
+* Python, Java, SQL, JavaScript
+
+**Frameworks & Tools:**
+
+* PyQt6, Flask, Laravel
+* Git & GitHub
+* Supabase
+* VS Code
+
+**AI & Data:**
+
+* Machine Learning Basics
+* Data Analysis
+* Network Security Datasets (CTU-13, UNSW-NB15, etc.)
+
+---
+
+## 📂 Featured Projects
+
+* 🔐 AI Botnet Detection System
+* 🖥️ Desktop Security Application (PyQt6)
+* 🌐 Web-based Systems with Laravel
+
+---
+
+## 📊 GitHub Stats
+
+![Eyas's GitHub stats](https://github-readme-stats.vercel.app/api?username=EyasMajeed\&show_icons=true\&theme=tokyonight)
+
+---
+
+## 📫 Contact Me
+
+* 💼 LinkedIn: (Add your link here)
+* 📧 Email: (Add your email here)
+
+---
+
+⭐️ From [EyasMajeed](https://github.com/EyasMajeed)
