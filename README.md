@@ -1,52 +1,28 @@
-# Eyas Majeed
+# Hi, I'm Eyas
 
-Computer Science graduate from King Abdulaziz University. I build backend systems and applied machine learning — REST APIs, database design, and models that end up inside something people can actually open and use.
+I just graduated in Computer Science from King Abdulaziz University in Jeddah. Most of what I've built is backend work (Laravel, MySQL, REST APIs), and my graduation project got me into machine learning and explainable AI.
 
-Currently looking for a software engineering role in backend, data, or AI.
+I'm currently looking for a backend, data or AI role.
 
----
+## Projects
 
-## What I've built
+**[BotSense](https://github.com/EyasMajeed/Botsense)**
+Our graduation project. It detects botnet traffic on a network in two stages: a Random Forest model works out what kind of traffic it is, then a CNN-LSTM model trained for that type checks it. We trained it on N-BaIoT, IoT-23, CTU-13 and CIC-IDS-2017.
+My part was the explainability module, which shows why the model flagged something. I wrote Integrated Gradients from scratch in PyTorch and used SHAP alongside it. I also built the PyQt6 desktop app we used to monitor traffic.
 
-### [BotSense](https://github.com/EyasMajeed/BotSense) — AI-based botnet detection
-A two-stage detection pipeline for IoT and non-IoT network traffic: a Random Forest router that classifies traffic type, feeding branch-specific CNN-LSTM detectors. Trained and evaluated on N-BaIoT, IoT-23, CTU-13 and CIC-IDS-2017.
+**[menu-management-system](https://github.com/EyasMajeed/menu-management-system)**
+A Laravel app for managing restaurant menus: categories, items, modifiers, and working hours for each branch.
 
-My part: the Explainable AI module — Integrated Gradients implemented from scratch in PyTorch, paired with SHAP and a rule engine that maps attributions to named threat patterns — plus the PyQt6 Security Operations Center dashboard for live monitoring, PCAP upload and drill-down.
+## Work
 
-`Python` · `PyTorch` · `PyQt6` · `scikit-learn`
+- **Marsa**, Backend Developer (Sep 2025 to Jan 2026): backend for a platform that connects mosque administrators with maintenance providers. Database design, REST APIs, and the logic for routing and approving service requests.
+- **Blend**, Backend Intern (Jun to Sep 2025): Laravel endpoints that pulled order data from several Saudi delivery apps into one dashboard. I also helped on the Flutter app.
+- **Novelty**, App Developer (2023 to 2025): a school bus tracking system built with Flutter, Firebase and ESP32 boards, with separate views for drivers, school managers and parents.
 
-### [Menu Management System](https://github.com/EyasMajeed/menu-management-system)
-A Laravel system for restaurant menus: categories, items, modifiers, and per-branch working hours.
+## Stack
 
-`PHP` · `Laravel` · `MySQL` · `Blade`
+PHP (Laravel), Python, JavaScript, Dart (Flutter), SQL / MySQL, Supabase, Firebase, PyTorch, scikit-learn, pandas, Git
 
----
+## Contact
 
-## Where I've worked
-
-**Backend Developer — Marsa** · Sep 2025 – Jan 2026
-Backend for a B2B platform connecting mosque administrators with maintenance providers: MySQL schemas and REST APIs for public pages, service-request routing and internal admin tools.
-
-**Backend Intern — Blend (Al-Mumkinah IT)** · Jun 2025 – Sep 2025
-Laravel endpoints normalizing data from several Saudi delivery platforms into one unified dashboard. Contributed to a Flutter app for real-time order management.
-
-**App Developer — Novelty** · May 2023 – May 2025
-Full-stack IoT bus tracking system with Flutter, Firebase and ESP32 hardware, supporting driver, school manager and parent roles in a single codebase.
-
----
-
-## Tools I work with
-
-**Backend** PHP (Laravel) · Python · Node.js · MySQL · Supabase · Firebase · REST APIs
-
-**ML & Data** PyTorch · scikit-learn · pandas · Explainable AI (SHAP, Integrated Gradients)
-
-**Mobile & Frontend** Flutter · Dart · React · JavaScript
-
-**Other** Git · ESP32 · PyQt6
-
----
-
-## Reach me
-
-[LinkedIn](https://www.linkedin.com/in/eyas-majeed) · eyasbusiness.456@gmail.com
+[LinkedIn](https://www.linkedin.com/in/eyas-majeed) or eyasbusiness.456@gmail.com
