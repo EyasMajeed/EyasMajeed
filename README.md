@@ -1,59 +1,52 @@
-# 👋 Hi, I'm Eyas Majeed
+# Eyas Majeed
 
-🎓 Computer Science Student | Soon-to-be Graduate
+Computer Science graduate from King Abdulaziz University. I build backend systems and applied machine learning — REST APIs, database design, and models that end up inside something people can actually open and use.
 
-💻 Aspiring Software Engineer | AI & Data Science Enthusiast
-
-📍 Based in Saudi Arabia
+Currently looking for a software engineering role in backend, data, or AI.
 
 ---
 
-## 🚀 About Me
+## What I've built
 
-* 🔭 Currently working on AI-based cybersecurity projects
-* 🧠 Interested in Machine Learning, Data Science, and Backend Development
-* ⚡ Building real-world applications using Python, PyQt6, and modern tools
-* 🎯 Goal: Become a Software Engineer in AI/Data-focused roles
+### [BotSense](https://github.com/EyasMajeed/BotSense) — AI-based botnet detection
+A two-stage detection pipeline for IoT and non-IoT network traffic: a Random Forest router that classifies traffic type, feeding branch-specific CNN-LSTM detectors. Trained and evaluated on N-BaIoT, IoT-23, CTU-13 and CIC-IDS-2017.
 
----
+My part: the Explainable AI module — Integrated Gradients implemented from scratch in PyTorch, paired with SHAP and a rule engine that maps attributions to named threat patterns — plus the PyQt6 Security Operations Center dashboard for live monitoring, PCAP upload and drill-down.
 
-## 🛠️ Tech Stack
+`Python` · `PyTorch` · `PyQt6` · `scikit-learn`
 
-**Languages:**
+### [Menu Management System](https://github.com/EyasMajeed/menu-management-system)
+A Laravel system for restaurant menus: categories, items, modifiers, and per-branch working hours.
 
-* Python, Java, SQL, JavaScript, Dart, R, C++
-
-**Frameworks & Tools:**
-
-* PyQt6, Flask, Laravel
-* Git & GitHub
-* Supabase
-* VS Code
-* Flutter
-* Firebase
-
-**AI & Data:**
-
-* Machine Learning Basics
-* Data Analysis
-* Network Security Datasets (CTU-13, UNSW-NB15, etc.)
+`PHP` · `Laravel` · `MySQL` · `Blade`
 
 ---
 
-## 📂 Featured Projects
+## Where I've worked
 
-* 🔐 AI Botnet Detection System
-* 🖥️ Desktop Security Application (PyQt6)
-* 🌐 Web-based Systems with Laravel
-* 📱 Application uses Realtime Data and live Tracking (Flutter)
+**Backend Developer — Marsa** · Sep 2025 – Jan 2026
+Backend for a B2B platform connecting mosque administrators with maintenance providers: MySQL schemas and REST APIs for public pages, service-request routing and internal admin tools.
 
----
+**Backend Intern — Blend (Al-Mumkinah IT)** · Jun 2025 – Sep 2025
+Laravel endpoints normalizing data from several Saudi delivery platforms into one unified dashboard. Contributed to a Flutter app for real-time order management.
 
-
-## 📫 Contact Me
-
-* 💼 LinkedIn: https://www.linkedin.com/in/eyas-majeed
+**App Developer — Novelty** · May 2023 – May 2025
+Full-stack IoT bus tracking system with Flutter, Firebase and ESP32 hardware, supporting driver, school manager and parent roles in a single codebase.
 
 ---
 
-⭐️ From [EyasMajeed](https://github.com/EyasMajeed)
+## Tools I work with
+
+**Backend** PHP (Laravel) · Python · Node.js · MySQL · Supabase · Firebase · REST APIs
+
+**ML & Data** PyTorch · scikit-learn · pandas · Explainable AI (SHAP, Integrated Gradients)
+
+**Mobile & Frontend** Flutter · Dart · React · JavaScript
+
+**Other** Git · ESP32 · PyQt6
+
+---
+
+## Reach me
+
+[LinkedIn](https://www.linkedin.com/in/eyas-majeed) · eyasbusiness.456@gmail.com
